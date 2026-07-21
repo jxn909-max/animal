@@ -1,0 +1,10 @@
+body {
+	background-color: rgb(200, 232, 225);
+	color: black;
+	font-family: "Segoe UI, Helvetica";
+}
+
+h1 {
+	color: black;
+	font-size: 50px;
+}
